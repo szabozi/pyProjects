@@ -11,6 +11,7 @@ camara = ["apa_minerala", "faina", "ciorba"]
 tort = ["apa_minerala", "faina", "zahar", "fructe"]
 
 lista_cumparaturi = []
+print("/n")
 
 
 def diferente(ing_camara, ing_tort):
