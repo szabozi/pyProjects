@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Ibuprofen Capsule",
+        "type": "capsule",
+        "complaint": [
+            "head",
+            "back",
+            "tooth",
+            "fever",
+            "cold"
+        ],
+        "usage": "1 capsule every 8 hours after meals"
+    },
+    {
+        "name": "Lipobase Repair",
+        "type": "ointment",
+        "complaint": [
+            "skin",
+            "dry skin"
+        ],
+        "usage": "no strict usage, use whenever you need, clean skin area first"
+    },
+    {
+        "name": "Tetraciclina clorhidrat 3%",
+        "type": "ointment",
+        "complaint": [
+            "wound",
+            "open wound",
+            "blister"
+        ],
+        "usage": "apply ointment to clean area"
+    },
+    {
+        "name": "Tetraciclina Atb",
+        "type": "ointment",
+        "complaint": [
+            "wound",
+            "open wound",
+            "blister"
+        ],
+        "usage": "apply to clean area"
+    },
+    {
+        "name": "Magnesium Effervescent Tablets",
+        "type": "tablets",
+        "complaint": [
+            "muscle",
+            "nerves"
+        ],
+        "usage": "1 tablet per day"
+    },
+    {
+        "name": "Johnson's Baby Powder",
+        "type": "powder",
+        "complaint": [
+            "skin",
+            "bruise"
+        ],
+        "usage": "apply to clean area"
+    },
+    {
+        "name": "Rapid SARS-CoV-2 Antigen Test Card",
+        "type": "device",
+        "complaint": [
+            "cold",
+            "weakness"
+        ],
+        "usage": "no usage, test for SARS-CoV-2"
+    }
+]

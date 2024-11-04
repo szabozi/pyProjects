@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-tutorial-379718",
+  "private_key_id": "0fd58dbe374a74f2c4c29e75b22943d6273d0878",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDM89TzZVV9sgc2\nQhgq/O8tmjElTRoTYhRcWdy6JbW9En2PAeOSa5Z8rORjRHE+1q0fuovdJwLQvZnV\njdLHddtllf/dcRI5m0u4AX27PUoyVjZFw5vALmz8UBZhS6AcntArGfeiiyDmnMFh\ny28T4n8/ZXqS/XigYVu9mx8/0hypAhblLEYautkbuEXcXTFyEew6qjuBOCZhKmYM\nr8xlpaiICWOxgduGQ8hcVt2NlhkoA9jftLfcJP/5Y1Xhi0ZBgJ+05WPlGBBbYisc\n2R3Z5rrITHqeymi6f7wXabWLgof9QIdYkdVhOjZ00FcBQD01vYzQMBD7QUkJM/ui\nFoCB+lUvAgMBAAECggEAHpVOFCntaW3M9LRFLfkDad8l8UaBmx3aIvPH48Enzvh4\n4wOppVpHoQAdrpByg6l+OQtZvp0JJwP79imNJ/V20UBiZ3VtfkolsOYMEIozTbKe\ns6deUP28hqQeytMBp/Os5Zmg4dD4DmGa29CDGUkFqvymH1QSkYAls/P3ZEsiurdP\n8eJWbpZ9otQWfZLQQA7IUgVp+FMyoB9UbGeDmsRquqUSW+cb2edj76gXTIsJcRjm\njitxccSHfN+fiOKHZoctMHBOPAGkZtvO5b+7Wg9K/dqXF7qUEcJoXPLLs9YTHpDT\nGKDFvh7toZZ7n0ReTeYTFVb6L5xYJgyc4DgTrqCBsQKBgQD7ZS4adMXhoiDBndI/\nRAwth/57t/tFusJRqLopcA/b+LNzDMhTSksLRJ5+Z8upiS63jv//zmHZbf4+p1cz\nM3i/d4JhdBx1a2xlMZd2aOkJYzCcRXqFQgIWNvoWDIKVid10U7wSohOr3siAodTn\nJs73KHX4sGgCs8OKionbutSxXwKBgQDQtOBiuiDi3Xps49gHh9lCi2l7VurkTnPK\n8bXyenJvCkuWOmFzyh7iDbueahdlvCsQ38cKPqLGmDFQisnM82S4hqTQg2N9633I\nfvU9e0MCQ/4X53nbHH3aqrQBzRecyDqS7AW/Ny6Bdn9HS27oUQT+JMzPmJFsswC4\nKuHrIwzeMQKBgAJ5Y3PFNHFdDB97sycGP2xvSzTigamVBfaRx4tC3BUZJIL8XDhd\nodFxknHCCcIYZIpP8PsOh+4A5CCvuu75EbYosfLNlr4dGYsBavEyZSC/hinzkRog\npS6cyedPpjVcjv5nGJHCYJkvbx+8+AByZFUQY+DXs55bMJB7fpHYC+HXAoGBAL5g\nT9Ie4IKw7szHJTbxV2AZFVX52ff6DCvSQlr2EM5zQLG/fUeG1pbzWfJN6hvWAh65\nUbFpo0euakWC5EN8vaKIx2ygfS/OkQVDseasOlqltPEPKBuTqMW/MsX11BUinDOK\n8k8TQeu8MKvTBk8KIJjG7sBq9jSGMCDOlRfM+B7xAoGAaEOt9hdGTtmhO2z2upOP\nremKj4QekyvuoCBbIG7bLCWdeyxZdQsk+d02KZjTdh8gY8PbRPo9y/+nE6zfw9s1\n36sK++ty28cdE1DWmLMWMD/MngRDRrIMJXOFtNcSuIeuLQpLghXgrZiQJW+EzoCp\nAQQ6Z/OmAcDy6Qg3nEgs1OI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "szabozi@python-tutorial-379718.iam.gserviceaccount.com",
+  "client_id": "110066166264474816741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/szabozi%40python-tutorial-379718.iam.gserviceaccount.com"
+}
